@@ -2,8 +2,8 @@ const axios = require('axios');
 
 const Prefixes = [
   '/ai',
-  'gear',
-  'préscilia ',
+  'kr',
+  'jr ',
   '+ai',
   'shinmon',
   'ai',
@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛\n\n あなたの質問 .....?  ");
+        await message.reply("Djassé \n\n あなたの質問 .....?  ");
         return;
       }
 
@@ -40,10 +40,10 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛
+    await message.reply({ body: `Djassé jr
 _______________________
 ${answer}
-ドラキュラ 💢`,
+🔴`,
 });
 
    } catch (error) {
