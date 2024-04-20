@@ -40,7 +40,7 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `Djassé jr
+    await message.reply({ body: `👁️‍🗨️🤝🤝ALTRUISTE MAN 🇮🇲 👁️
 _______________________
 ${answer}
 🔴`,
