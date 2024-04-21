@@ -13,9 +13,9 @@ module.exports = {
 		},
 		guide: {
 			vi: "   {pn} <emoji1> <emoji2>"
-				+ "\n   Ví dụ:  {pn} 🤣 🥰",
+				+ "\n   Ví dụ:  {pn} 🤣👁️✊ 🥰",
 			en: "   {pn} <emoji1> <emoji2>"
-				+ "\n   Example:  {pn} 🤣 🥰"
+				+ "\n   Example:  {pn} 🤣👁️✊ 🥰"
 		},
 		category: "fun"
 	},
