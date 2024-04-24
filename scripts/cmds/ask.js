@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("✌️🤑💎T¥$TEUR jr✊📱✌️ \n\n あなたの質問 .....?  ");
+        await message.reply(" 👁️Altruistes man👀\n\n あなたの質問 .....?  ");
         return;
       }
 
@@ -40,7 +40,7 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `👁️‍🗨️🤝🤝ALTRUISTE MAN 🇮🇲 👁️
+    await message.reply({ body: `✊𝕶𝕰𝕾𝕾𝕴 𝕵𝕽👑
 _______________________
 ${answer}
 🔴`,
