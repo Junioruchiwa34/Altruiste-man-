@@ -43,7 +43,7 @@ module.exports = {
     await message.reply({ body: `✊𝕶𝕰𝕾𝕾𝕴 𝕵𝕽👑
 _______________________
 ${answer}
-🔴`,
+✊👑`,
 });
 
    } catch (error) {
