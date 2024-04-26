@@ -1,6 +1,6 @@
 module.exports = {
   config: {
-    name: "draculagc",
+    name: 𝑀𝒞 𝐵𝐼𝐿𝐿𝐼𝒜𝑅𝒟",
     version: "1.0",
     author: "SiAM",
     countDown: 30,
