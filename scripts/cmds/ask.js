@@ -40,10 +40,10 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `✊𝕶𝕰𝕾𝕾𝕴 𝕵𝕽👑
+    await message.reply({ body: `✊ΜΙ🆂ΤΣᖇ ΜΟΝΣΨ ꧂👑
 _______________________
 ${answer}
-✊👑`,
+👁️,
 });
 
    } catch (error) {
