@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply(" 👁️Altruistes man👀\n\n あなたの質問 .....?  ");
+        await message.reply(" ✌️彡𝔸𝕃𝕋ℝ𝕌𝕀𝕊𝕋𝔼 𝕄𝔸ℕ會✌️\n\n あなたの質問 .....?  ");
         return;
       }
 
